@@ -1,3 +1,9 @@
+sddm-config (0.0.2)  nitrux; urgency=medium
+
+  * Hope to god that SDDM respects it's fucking config file.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 14 Mar 2022 13:14:00 -0500
+
 sddm-config (0.0.1)  nitrux; urgency=medium
 
   * Create package.
