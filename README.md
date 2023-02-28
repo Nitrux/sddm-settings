@@ -1,4 +1,4 @@
-# SDDM Configuration for Nitrux [![Build Status](https://travis-ci.org/Nitrux/sddm-config.svg?branch=main)](https://travis-ci.org/Nitrux/sddm-config)
+# SDDM Configuration for Nitrux
 
 This package provides the configuration files for SDDM.
 
