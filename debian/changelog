@@ -1,3 +1,9 @@
+sddm-config (0.0.4)  nitrux; urgency=medium
+
+  * Make sddm.conf immutable.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 17 May 2023 18:40:00 -0500
+
 sddm-config (0.0.3)  nitrux; urgency=medium
 
   * Default to plasma wayland session.
