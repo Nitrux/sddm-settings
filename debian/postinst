@@ -1,7 +1,3 @@
 #! /bin/bash
 
-#   make sddm.conf immutable so nothing fucking touches it, did you hear casper?
-
-chattr +i /etc/sddm.conf
-
 set -xe
