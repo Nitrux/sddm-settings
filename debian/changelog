@@ -1,6 +1,6 @@
 sddm-config (0.0.7)  nitrux; urgency=medium
 
-  * Disable use rootless Wayland for SDDM but keep the configurationfile.
+  * Disable use rootless Wayland for SDDM but keep the configuration file.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Sun, 27 Oct 2024 03:25:00 -0500
 
