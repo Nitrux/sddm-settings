@@ -1,3 +1,9 @@
+sddm-config (0.0.8)  nitrux; urgency=medium
+
+  * Usae rootless X11.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 27 Oct 2024 06:09:00 -0500
+
 sddm-config (0.0.7)  nitrux; urgency=medium
 
   * Disable use rootless Wayland for SDDM but keep the configuration file.
