@@ -1,3 +1,9 @@
+sddm-config (0.1.0)  nitrux; urgency=medium
+
+  * Split displayserver files.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 30 Oct 2024 19:27:00 -0500
+
 sddm-config (0.0.9)  nitrux; urgency=medium
 
   * Centralize SDDM DisplayServer settings.
