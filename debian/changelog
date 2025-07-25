@@ -1,8 +1,14 @@
+sddm-settings (0.1.6)  nitrux; urgency=medium
+
+  * Use breeze theme in the meantime.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 25 Jul 2025 03:50:00 -0500
+
 sddm-settings (0.1.5)  nitrux; urgency=medium
 
   * Rename package.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Thu, 24 Jun 2025 22:49:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 24 Jul 2025 22:49:00 -0500
 
 nx-sddm-settings (0.1.4)  nitrux; urgency=medium
 
