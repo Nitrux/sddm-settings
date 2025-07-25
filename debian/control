@@ -1,4 +1,4 @@
-Source: nx-sddm-settings
+Source: sddm-settings
 Section: misc
 Priority: optional
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
@@ -7,9 +7,9 @@ Standards-Version: 3.9.6
 Homepage: http://nxos.org
 
 
-Package: nx-sddm-settings
+Package: sddm-settings
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, sddm
 Description: Defaults settings for SDDM
  Default settings for:
   - SDDM

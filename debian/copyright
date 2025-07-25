@@ -1,13 +1,13 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: nx-desktop-settings
-Source: https://github.com/Nitrux/nx-desktop-settings.git
+Upstream-Name: sddm-settings
+Source: https://github.com/Nitrux/sddm-settings.git
 
 Files: *
-Copyright: 2017 Alexis López Zubieta <azubieta90@gmail.com>
+Copyright: 2025 Uri Herrera <uri_herrera@nxos.org>
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: 2017 Alexis López Zubieta <azubieta90@gmail.com>
+Copyright: 2025 Uri Herrera <uri_herrera@nxos.org>
 License: GPL-3.0+
 
 License: GPL-3.0+
