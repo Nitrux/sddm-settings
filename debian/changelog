@@ -1,3 +1,9 @@
+sddm-settings (0.1.7)  nitrux; urgency=medium
+
+  * Use kwin to launch sddm rootless wayland instance.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 25 Jul 2025 15:21:00 -0500
+
 sddm-settings (0.1.6)  nitrux; urgency=medium
 
   * Use breeze theme in the meantime.
