@@ -9,7 +9,7 @@ Homepage: http://nxos.org
 
 Package: sddm-settings
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, sddm
+Depends: ${shlibs:Depends}, ${misc:Depends}, sddm, sddm-theme-maldives
 Description: Defaults settings for SDDM
  Default settings for:
   - SDDM

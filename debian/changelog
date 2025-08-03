@@ -1,3 +1,9 @@
+sddm-settings (0.1.8)  nitrux; urgency=medium
+
+  * Default to maldives theme.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 03 Aug 2025 01:57:00 -0500
+
 sddm-settings (0.1.7)  nitrux; urgency=medium
 
   * Use kwin to launch sddm rootless wayland instance.
